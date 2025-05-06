@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'https://interlabs-official.github.io/docs/imgs/betterkmr_logo_up.png',
+    logo: 'https://interlabs-official.github.io/global_assets/betterkmr_logo_up.png',
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
