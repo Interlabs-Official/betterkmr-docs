@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: BetterKMR transforms your everyday Kamar portal into a personalised and enhanced environment with awesome themes, customisation options, and even more.
   image:
-    src: /imgs/icon_transparent_128.png
+    src: https://interlabs-official.github.io/global_assets/icon_transparent_128.png
     alt: BetterKMR Logo
   actions:
     - theme: brand
