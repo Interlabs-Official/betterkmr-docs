@@ -30,6 +30,7 @@ export default defineConfig({
         items: [
           { text: 'Creating Custom Themes', link: '/guides/creating_custom_themes' },
           { text: 'Building & Developing', link: '/guides/building_and_developing' },
+          { text: 'Using the Navbar Editor', link: '/guides/using_the_navbar_editor' },
         ]
       },
       {
