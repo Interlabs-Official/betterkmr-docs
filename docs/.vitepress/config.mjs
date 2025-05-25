@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'v1.1.0 - Better Notices & VTT', link: '/changelog/1_1_0' },
           { text: 'v1.1.1 - Import/Export Themes', link: '/changelog/1_1_1' },
           { text: 'v1.2.0 - Dynamic Navbar Editor', link: '/changelog/1_2_0' },
+          { text: 'v1.2.1 - Settings Patch Fix', link: '/changelog/1_2_1' },
         ]
       },
       {
