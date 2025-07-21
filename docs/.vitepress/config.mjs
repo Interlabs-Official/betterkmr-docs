@@ -40,6 +40,8 @@ export default defineConfig({
           { text: 'v1.1.1 - Import/Export Themes', link: '/changelog/1_1_1' },
           { text: 'v1.2.0 - Dynamic Navbar Editor', link: '/changelog/1_2_0' },
           { text: 'v1.2.1 - Settings Patch Fix', link: '/changelog/1_2_1' },
+          { text: 'v1.2.2 - Experiments & More', link: '/changelog/1_2_2' },
+          { text: 'v1.2.3 - Course Selection Patch', link: '/changelog/1_2_3' },
         ]
       },
       {
